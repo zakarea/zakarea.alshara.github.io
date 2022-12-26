@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zakarea AL SHARA / PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zakarea AL SHARA"
 description              : &description "personal description"
 url                      : https://zakarea.alshara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
